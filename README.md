@@ -4,7 +4,6 @@ Console.log("Eu Sou O André")
 
 - 🌱 Atualmente eu estou aprendendo NodeJs e Cursando Engenharia de Software
 - 👯 Estou a procura de uma oportunidade para começar a minha carreira
-- 📫 Como me contatar: ...
 <div align="center">
   <a href="https://github.com/iamandrelzss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamandrelzss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

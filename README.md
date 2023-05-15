@@ -1,10 +1,5 @@
-Console.log("André Luiz")
+Software Engineer
 
-
-
-- 🌱 Atualmente eu estou aprendendo NodeJs e Cursando Engenharia de Software
-- 👯 Estou a procura de uma oportunidade para começar a minha carreira
-- "Consertar gambiarra com gambiarra, anula a gambiarra???"
 <div align="center">
   <a href="https://github.com/iamandrelzss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamandrelzss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
